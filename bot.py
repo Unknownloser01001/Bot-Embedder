@@ -7,7 +7,7 @@ import os
 TOKEN = os.getenv("TOKEN")   # Token is loaded from environment variables (safer)
 
 ALLOWED_ROLE_IDS = [
-    123456789012345678,   # ← Add your allowed role ID(s) here
+    1512766885379313704,   # ← Add your allowed role ID(s) here
 ]
 
 intents = discord.Intents.default()
